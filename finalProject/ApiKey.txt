@@ -1,0 +1,10 @@
+https://api.themoviedb.org/3/movie/ => bas url
+
+api_key=bd4921cf8b1fbc048aa59f7f31bca49c
+
+api_key=7a1c19ea3c361a4d3cc53eb70ef8298c
+
+api_key=1fee40a2748c8703844d17c8a37322b7
+
+API Read Access Token:
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxZmVlNDBhMjc0OGM4NzAzODQ0ZDE3YzhhMzczMjJiNyIsIm5iZiI6MTcyODA0NjYxOC43Nzc3NzUsInN1YiI6IjY2ZmZkOTk0OTI1ZmRmOTI1YjdjYzhlOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.eoMjPANfjK9aAgAPFzPYdjm9w6_JFlylb0wnVzgh10U
